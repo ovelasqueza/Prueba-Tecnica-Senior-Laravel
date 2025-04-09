@@ -24,7 +24,7 @@ Weather App es una aplicación web desarrollada con Laravel que permite a los us
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/weather-app-laravel.git
+git clone https://github.com/ovelasqueza/Prueba-Tecnica-Senior-Laravel
 cd weather-app-laravel
 ```
 
